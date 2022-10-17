@@ -1,0 +1,70 @@
+li a{
+    text-decoration: none;
+    text-align: center;
+    
+}
+li{
+    display: inline-block;
+    padding: 30px;
+    
+}
+.menu{
+    background-color: rgb(84, 238, 230);
+}
+.logo{
+    height: 100px;
+    padding-right: 100px;
+}
+.logo-img{
+    width: 80px;
+}
+.center{
+    height: 100px;
+}
+.end{
+    padding-top: 25px;
+    height: 100px;
+}
+.hero{
+    height: 500px;
+    background-image: url("../img/background2.jpg");
+    background-position: center; 
+    background-size: cover;
+}
+.hero-contenido{
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+}
+.button{
+    background-color: white;
+    color: black;
+    border: 2px  black solid;
+}
+.form{
+    background-color: rgb(120, 202, 240);
+}
+.form .container{
+    padding-top: 30px;
+}
+.form-datos {
+    background-color: white;
+}
+.form-datos h2{
+    text-align: center;
+    text-decoration: underline ;
+}
+.form-datos {
+    padding: 20px;
+}
+.form-datos input{
+    width: 100%;
+}
+.form-logo{
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
